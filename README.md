@@ -115,41 +115,43 @@ The UI simulates how a **backend fraud detection engine** would work in real pay
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-
+````
 
 Open browser:
 
+```
 http://localhost:8501
+```
+
+---
 
 ## 🧠 Key Learnings
 
-Handling imbalanced datasets in real-world ML problems
+* Handling imbalanced datasets in real-world ML problems
+* Importance of feature consistency between training and inference
+* Practical ML deployment challenges
+* Building usable ML systems, not just models
 
-Importance of feature consistency between training and inference
-
-Practical ML deployment challenges
-
-Building usable ML systems, not just models
+---
 
 ## 🔮 Future Improvements
 
-Cost-sensitive learning
-
-Real-time transaction streaming
-
-Model monitoring and drift detection
-
-Authentication and role-based UI
+* Cost-sensitive learning
+* Real-time transaction streaming
+* Model monitoring and drift detection
+* Authentication and role-based UI
 
 ---
-##👤 Author
 
-Sarangi
+## 👤 Author
+
+**Sarangi Bendre**
 B.Tech – Artificial Intelligence & Machine Learning
 
-📌 Conclusion
+---
+
+## 📌 Conclusion
 
 This project demonstrates a complete, real-world machine learning pipeline for fraud detection, from data preprocessing to deployment with a functional user interface.
 
-
----
+```
