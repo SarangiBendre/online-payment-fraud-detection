@@ -108,6 +108,8 @@ The UI simulates how a **backend fraud detection engine** would work in real pay
 - GitHub
 - Render
 
+---
+
 ## 🧪 How to Run Locally
 
 ```bash
@@ -139,12 +141,15 @@ Model monitoring and drift detection
 
 Authentication and role-based UI
 
+---
 👤 Author
 
-Sarangi Bendre
+Sarangi
 B.Tech – Artificial Intelligence & Machine Learning
 
 📌 Conclusion
 
 This project demonstrates a complete, real-world machine learning pipeline for fraud detection, from data preprocessing to deployment with a functional user interface.
 
+
+---
