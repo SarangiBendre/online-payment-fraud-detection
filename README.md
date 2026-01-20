@@ -121,7 +121,7 @@ Open browser:
 
 http://localhost:8501
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 
 Handling imbalanced datasets in real-world ML problems
 
@@ -131,7 +131,7 @@ Practical ML deployment challenges
 
 Building usable ML systems, not just models
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Cost-sensitive learning
 
@@ -142,7 +142,7 @@ Model monitoring and drift detection
 Authentication and role-based UI
 
 ---
-👤 Author
+##👤 Author
 
 Sarangi
 B.Tech – Artificial Intelligence & Machine Learning
